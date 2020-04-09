@@ -13,9 +13,11 @@ module.exports = merge(common, {
   mode: 'development',
   devtool: 'inline-source-map',
   devServer: {
-    contentBase: './public',
+    contentBase: __dirname + '/public/',
     hot: true,
     historyApiFallback: true,
+    inline: true,
+    port: 8080,
   },
   module: {
     rules: [{

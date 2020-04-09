@@ -1,0 +1,130 @@
+[
+   {
+          "id": 1,
+          "name": "Ken Mini",
+          "price": "232455",
+          "images": "./template/images/elessi-bag-blue-400x520.jpg",
+          "imagesBack": "./template/images/elessi-bag-blue-2-400x520.jpg",
+          "hot": false
+        },
+        {
+          "id": 2,
+          "name": "Elessi Bag",
+          "price": "28",
+          "images": "./template/images/elessi-bag-green-400x520.jpg",
+          "imagesBack": "./template/images/elessi-bag-green-2-400x520.jpg",
+          "hot": true
+        },
+        {
+          "id": 3,
+          "name": "Rucksack",
+          "price": "49",
+          "images": "./template/images/greenland_zip-blue-1-400x520.jpg",
+          "imagesBack": "./template/images/greenland_zip-blue-2-400x520.jpg",
+          "hot": true
+        },
+        {
+          "id": 4,
+          "name": "Greenland Zip",
+          "price": "27",
+          "images": "./template/images/totepack-yellow-400x520.jpg",
+          "imagesBack": "./template/images/totepack-yellow-2-400x520.jpg",
+          "hot": true
+        },
+        {
+          "id": 5,
+          "name": "Greenland",
+          "price": "41",
+          "images": "./template/images/high_coast-1-400x520.jpg",
+          "imagesBack": "./template/images/high_coast-2-400x520.jpg",
+          "hot": false
+        },
+        {
+          "id": 6,
+          "name": "Totepack",
+          "price": "31",
+          "images": "./template/images/greenland-blue-1-400x520.jpg",
+          "imagesBack": "./template/images/greenland-blue-3-400x520.jpg",
+          "hot": false
+        },
+        {
+          "id": 7,
+          "name": "Kiruna Backpack",
+          "price": "25",
+          "images": "./template/images/ken_mini_red-400x520.jpg",
+          "imagesBack": "./template/images/ken_mini_red2-400x520.jpg",
+          "hot": true
+        },
+        {
+          "id": 8,
+          "name": "High Coast",
+          "price": "19",
+          "images": "./template/images/rucksack-green-400x520.jpg",
+          "imagesBack": "./template/images/rucksack-1-400x520.jpg",
+          "hot": true
+        },
+  {
+    "id": 9,
+    "name"  : "Travel Boots",
+    "price" :"2345432",
+    "images" : "template/images/shoes/3337312107_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/bag-blog-2-380x380.jpg",
+    "hot" : false
+  },
+  {
+    "id":10,
+    "name"  : "Tiny Paws",
+    "price" :"2853214",
+    "images" : "template/images/shoes/3311312004_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/3311312004_2_2_2-400x511.jpg",
+    "hot" : true
+  },
+  {
+    "id": 11,
+    "name"  : "Captain Foots",
+    "price" :"4942314",
+    "images" : "template/images/shoes/7305312040_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/7305312040_2_2_2-400x511.jpg",
+    "hot" : true
+  },
+  {
+    "id": 12,
+    "name"  : "YOung Brown",
+    "price" :"31",
+    "images" : "template/images/shoes/7323312107_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/7323312107_2_2_2-400x511.jpg",
+    "hot" : false
+  },
+  {
+    "id": 13,
+    "name"  : "White Sport",
+    "price" :"252314",
+    "images" : "template/images/shoes/3334312001_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/3334312001_2_2_2-400x511.jpg",
+    "hot" : true
+  },
+  {
+    "id": 14,
+    "name"  : "Strong Men",
+    "price" :"19214",
+    "images" : "template/images/shoes/3346312004_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/3346312004_2_2_2-400x511.jpg",
+    "hot" : true
+  },
+  {
+    "id": 15,
+    "name"  : "Red cool",
+    "price" :"27",
+    "images" : "template/images/shoes/7219312022_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/7219312022_2_2_2-400x511.jpg",
+    "hot" : true
+  },
+  {
+    "id": 16,
+    "name"  : "Ultra Boots",
+    "price" :"411234",
+    "images" : "template/images/shoes/3335312050_2_1_2-400x511.jpg",
+    "imagesBack"  : "template/images/shoes/3335312050_2_2_2-400x511.jpg",
+    "hot" : false
+  }
+]
